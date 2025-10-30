@@ -1,0 +1,6 @@
+pillow
+numpy
+scipy
+matplotlib
+joblib
+tqdm
